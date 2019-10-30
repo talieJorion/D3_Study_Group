@@ -4,16 +4,16 @@
 
 NPR's collection of D3 visualization templates. Not always great code, but well-tested and covers a range of responsive options. https://github.com/nprapps/dailygraphics-templates/  
 
-
 [Aaron Williams](https://twitter.com/aboutaaron?lang=en) at [the Post](https://twitter.com/washingtonpost/lists/washington-post-people) has been posting about his workflow using D3 and Observable to prototype visualizations - https://twitter.com/aboutaaron/status/1107697344944975872 
 
- Thomas Wilburn book about doing dataviz and interactive journalism without using libraries like D3
+Thomas Wilburn book about doing dataviz and interactive journalism without using libraries like D3
 Aaron Colby Williams @aboutaaron  - https://thomaswilburn.github.io/viz-book/
 
 @observablehq is my go-to tool for quickly sketching ideas w/o a full dev setup. I was able to share sketches (privately!) and iterate as the story and designed evolved. Both graphics started as forks of a notebook I use for almost all my Observable work https://observablehq.com/@aboutaaron/setup-page
 
-
 [D3 in Depth](https://www.d3indepth.com/introduction/)
+
+[Jonathan Soma](https://twitter.com/dangerscarf?lang=en) is a Professor from Columbia University Data Journalism Program in New York. He has useful Web Basics and D3 Data Viz tutorials on his Youtube Channel - https://www.youtube.com/channel/UCg3t2I9DIsU1HxNOHoPcLlw
 
 ## Open Source Online Courses
 
@@ -32,7 +32,6 @@ Aaron Colby Williams @aboutaaron  - https://thomaswilburn.github.io/viz-book/
 
 - https://bl.ocks.org/mbostock/3019563
 - https://www.d3indepth.com/scales/
-
 
 ### Scales
 
@@ -73,6 +72,12 @@ Aaron Colby Williams @aboutaaron  - https://thomaswilburn.github.io/viz-book/
 
 [Array Top 10 Functions You Should Know](https://dev.to/frugencefidel/10-javascript-array-methods-you-should-know-4lk3)
 
+[Accessor function](https://bl.ocks.org/boeric/8b34abda1d33b983b09b)
+
 [Objects](https://www.w3schools.com/js/js_objects.asp)
 
 [Javascript Callbacks](https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced)
+
+## Data Visualization Course
+
+Data Visualization course website from University of Arizona - https://cscheid.net/courses/spr15/cs444/
